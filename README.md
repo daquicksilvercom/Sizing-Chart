@@ -1,1 +1,1 @@
-# Sizing-Chart
+# Sizing Chart
